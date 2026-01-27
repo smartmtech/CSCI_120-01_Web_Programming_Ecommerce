@@ -1,0 +1,55 @@
+body {
+	background-color: lavender;
+}
+
+h1 {
+	font-family: 'verdana';
+	font-size:  16px;
+	color: blue;
+	text-align: center;
+	border:  1px green;
+	background-color:  #D3D3D3;
+	height:  30px;
+	border-radius:  10px;
+}
+
+h2 {
+	font-size:  14px;
+	color: white;
+	text-align: left;
+}
+
+p {
+	font-family: 'verdana';
+	font-size: 12px;
+}
+
+img {
+	border:  1px solid green;
+	border-radius: 25px;
+	background: #73AD21;
+	padding: 20px;
+}
+
+label {
+	font-family: 'verdana';
+
+}
+
+input {
+	font-family: 'verdana';
+
+}
+
+button {
+	font-family: 'verdana';
+	border: none;
+  	color: Black;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	margin: 4px 2px;
+  	cursor: pointer;
+}
