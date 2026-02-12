@@ -117,7 +117,7 @@ form.example::after {
 /* .navbar is defined for a container that contains ul and li tags for the nav menu */
 .navbar {
 	background-color:  blue;
-	float: left;
+	float: center;
 	margin: 25;
 }
 
@@ -161,7 +161,7 @@ li a:hover {
 
 .shop {
   	text-align: center;
-  	float:center; 
+  	float:left; 
 	border-style=solid";
 	display: inline-block;
 	padding: 5;
